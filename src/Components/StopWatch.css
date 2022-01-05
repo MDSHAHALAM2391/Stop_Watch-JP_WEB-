@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image:url(../images/Tab4.jpg);
+}
+.input-box{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    color: green;
+    
+}
+button{
+    width: 100px;
+    height: 65px;
+    margin:0px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 17px;
+    padding: 10px;
+
+}
+ 
